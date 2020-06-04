@@ -1,0 +1,15 @@
+p {
+    width: 300px;
+    padding: 20px;
+    margin: 0;
+    border: 2px solid black;
+    font-size: 18px;
+    border-top: none;
+  }
+.last {
+    border-bottom: none;
+  }
+p:hover {
+    background-color: salmon;
+  }
+  
